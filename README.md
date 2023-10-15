@@ -11,7 +11,7 @@ This repository hosts illustrations related to Cloudhub 2.0 networking
 ![Image of Inbound Traffic via Public Endpoint](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/inbound-traffic-via-private-endpoint.gif)
 
 ## Outbound Traffic Internet Access
-![Image of Outbound Traffic Internet Access](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/outbound-traffic-access-to-servers on-internet.gif)
+![Image of Outbound Traffic Internet Access](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/outbound-traffic-access-to-servers-on-internet.gif)
 
 ## Outbound Traffic Internet Access [Mule App to Public IP Address of EC2 on AWS VPC]
 ![Image of Outbound Traffic Internet Access](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/outbound-traffic-to-aws-public-ip.gif)
@@ -29,4 +29,4 @@ This repository hosts illustrations related to Cloudhub 2.0 networking
 ![Image of Outbound Traffic Pod to Pod Communication via ClusterIP Service Endpoint](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/outbound-traffic-pod-to-pod-via-cluster-ip-service.gif)
 
 ## Non HTTP/S Traffic
-![Image of non HTTP/S Traffic](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images//non-https-traffic.gif)
+![Image of non HTTP/S Traffic](https://github.com/Vishwasp13/CloudHub2.0-Networking/blob/main/images/non-https-traffic.gif)
